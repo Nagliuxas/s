@@ -378,6 +378,6 @@ local Settings = win:Tab("Settings")
 Settings:Label("UI Toggle Key:  Right-Ctrl")
 
 Settings:Button("Copy Discord Invite", function()
-    setclipboard("https://discord.gg/psu")
+    setclipboard("https://discord.gg/P3N3eXrgZS")
     UILib:Notification("Notification", "Copied!", "Okay")
 end)
